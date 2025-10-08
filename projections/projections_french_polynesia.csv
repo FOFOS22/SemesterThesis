@@ -1,0 +1,7 @@
+country,baseline_year,baseline_fuel_l,year,projected_fuel_demand,annual_growth_rate
+ French Polynesia             ,2023,13.5,2023,13.5,0.02
+ French Polynesia             ,2023,13.5,2028,14.91,0.02
+ French Polynesia             ,2023,13.5,2033,16.46,0.02
+ French Polynesia             ,2023,13.5,2038,18.17,0.02
+ French Polynesia             ,2023,13.5,2043,20.06,0.02
+ French Polynesia             ,2023,13.5,2048,22.15,0.02

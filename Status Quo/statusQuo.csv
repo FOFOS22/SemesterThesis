@@ -1,0 +1,21 @@
+﻿YEAR,source, Country / Territory                ,Total Fuel Consumption (in mio l),Estimated Fuel (in l),share MDO, Estimated Fuel Use (10³ tonnes MDO eq.) ,median, Approx. Energy Demand (PJ) ¹ , Relative Share of PICT Total (%) , Key Notes / Sources                                                                          
+2023,paper, Fiji                         ,,,, 75–80                                    ,,3.2,28%, Cross-validated with Prasad & Raturi (2019) → 79 ML ≈ 2.9 PJ; adjusted to 2023 (+10 %).      
+2016,paper,Fiji,,79000000,77%,71.1,,,,prasad
+2023,paper, Papua New Guinea             ,1400,,, 90–95                                    ,92.5,3.8,33%, Largest fleet; high cargo and passenger traffic between main islands and Lae / Port Moresby. 
+2023,paper, Solomon Islands              ,,,, 35–40                                    ,37.5,1.5,13%, Many small inter-island cargo vessels (<500 DWT).                                            
+2023,paper, Vanuatu                      ,,,, 25–30                                    ,27.5,1.2,9%, Tourism and fishing-linked domestic shipping.                                                
+2023,paper, Tonga                        ,,,, 15–20                                    ,17.5,0.8,6%, Mostly passenger and Ro-Ro links to outer islands.                                           
+2023,paper, Cook Islands                 ,,,, 8–10                                     ,9,0.4,3%, Limited domestic routes; import-focused.                                                     
+2023,paper, French Polynesia             ,,,, 12–15                                    ,13.5,0.6,5%, Larger EEZ but relatively few domestic vessels.                                              
+2023,paper, Tuvalu                       ,,,, 4–5                                      ,4.5,0.2,2%, Small fleet; occasional inter-island service.                                                
+2023,paper, Federated States of Micronesia*,,,, 4–5                                      ,4.5,0.2,2%, Few domestic cargo/passenger ships.                                                          
+2023,paper, Total (9 PICTs)              ,,,, 270 ± 20 (10³ t MDO eq.)                 ,270,12,100%, ≈ 330 kt CO₂ emitted annually from domestic shipping. ²                                      
+,,,,,,,,,,
+2017,estimated,Fiji,,,,72.522,,,,
+2018,estimated,Fiji,,,,73.97244,,,,
+2019,estimated,Fiji,,,,75.451889,,,,
+2020,estimated,Fiji,,,,76.960927,,,,
+2017,estimated,Papua New Guinea,,,,80.52681652,,,,
+2018,estimated,Papua New Guinea,,,,82.13735285,,,,
+2019,estimated,Papua New Guinea,,,,83.78009991,,,,
+2020,estimated,Papua New Guinea,,,,85.45570191,,,,

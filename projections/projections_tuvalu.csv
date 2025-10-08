@@ -1,0 +1,7 @@
+country,baseline_year,baseline_fuel_l,year,projected_fuel_demand,annual_growth_rate
+ Tuvalu                       ,2023,4.5,2023,4.5,0.02
+ Tuvalu                       ,2023,4.5,2028,4.97,0.02
+ Tuvalu                       ,2023,4.5,2033,5.49,0.02
+ Tuvalu                       ,2023,4.5,2038,6.06,0.02
+ Tuvalu                       ,2023,4.5,2043,6.69,0.02
+ Tuvalu                       ,2023,4.5,2048,7.38,0.02

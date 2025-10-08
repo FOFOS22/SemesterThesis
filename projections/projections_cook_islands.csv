@@ -1,0 +1,7 @@
+country,baseline_year,baseline_fuel_l,year,projected_fuel_demand,annual_growth_rate
+ Cook Islands                 ,2023,9.0,2023,9.0,0.02
+ Cook Islands                 ,2023,9.0,2028,9.94,0.02
+ Cook Islands                 ,2023,9.0,2033,10.97,0.02
+ Cook Islands                 ,2023,9.0,2038,12.11,0.02
+ Cook Islands                 ,2023,9.0,2043,13.37,0.02
+ Cook Islands                 ,2023,9.0,2048,14.77,0.02

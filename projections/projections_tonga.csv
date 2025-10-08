@@ -1,0 +1,7 @@
+country,baseline_year,baseline_fuel_l,year,projected_fuel_demand,annual_growth_rate
+ Tonga                        ,2023,17.5,2023,17.5,0.02
+ Tonga                        ,2023,17.5,2028,19.32,0.02
+ Tonga                        ,2023,17.5,2033,21.33,0.02
+ Tonga                        ,2023,17.5,2038,23.55,0.02
+ Tonga                        ,2023,17.5,2043,26.0,0.02
+ Tonga                        ,2023,17.5,2048,28.71,0.02

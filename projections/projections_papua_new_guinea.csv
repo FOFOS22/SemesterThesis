@@ -1,0 +1,7 @@
+country,baseline_year,baseline_fuel_l,year,projected_fuel_demand,annual_growth_rate
+ Papua New Guinea             ,2023,92.5,2023,92.5,0.02
+ Papua New Guinea             ,2023,92.5,2028,102.13,0.02
+ Papua New Guinea             ,2023,92.5,2033,112.76,0.02
+ Papua New Guinea             ,2023,92.5,2038,124.49,0.02
+ Papua New Guinea             ,2023,92.5,2043,137.45,0.02
+ Papua New Guinea             ,2023,92.5,2048,151.76,0.02

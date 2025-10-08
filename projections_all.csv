@@ -1,0 +1,61 @@
+country,baseline_year,baseline_fuel_l,year,projected_fuel_demand,annual_growth_rate
+ Cook Islands                 ,2023,9.0,2023,9.0,0.02
+ Cook Islands                 ,2023,9.0,2028,9.94,0.02
+ Cook Islands                 ,2023,9.0,2033,10.97,0.02
+ Cook Islands                 ,2023,9.0,2038,12.11,0.02
+ Cook Islands                 ,2023,9.0,2043,13.37,0.02
+ Cook Islands                 ,2023,9.0,2048,14.77,0.02
+ Federated States of Micronesia*,2023,4.5,2023,4.5,0.02
+ Federated States of Micronesia*,2023,4.5,2028,4.97,0.02
+ Federated States of Micronesia*,2023,4.5,2033,5.49,0.02
+ Federated States of Micronesia*,2023,4.5,2038,6.06,0.02
+ Federated States of Micronesia*,2023,4.5,2043,6.69,0.02
+ Federated States of Micronesia*,2023,4.5,2048,7.38,0.02
+ Fiji                         ,2023,0.0,2023,0.0,0.02
+ Fiji                         ,2023,0.0,2028,0.0,0.02
+ Fiji                         ,2023,0.0,2033,0.0,0.02
+ Fiji                         ,2023,0.0,2038,0.0,0.02
+ Fiji                         ,2023,0.0,2043,0.0,0.02
+ Fiji                         ,2023,0.0,2048,0.0,0.02
+ French Polynesia             ,2023,13.5,2023,13.5,0.02
+ French Polynesia             ,2023,13.5,2028,14.91,0.02
+ French Polynesia             ,2023,13.5,2033,16.46,0.02
+ French Polynesia             ,2023,13.5,2038,18.17,0.02
+ French Polynesia             ,2023,13.5,2043,20.06,0.02
+ French Polynesia             ,2023,13.5,2048,22.15,0.02
+ Papua New Guinea             ,2023,92.5,2023,92.5,0.02
+ Papua New Guinea             ,2023,92.5,2028,102.13,0.02
+ Papua New Guinea             ,2023,92.5,2033,112.76,0.02
+ Papua New Guinea             ,2023,92.5,2038,124.49,0.02
+ Papua New Guinea             ,2023,92.5,2043,137.45,0.02
+ Papua New Guinea             ,2023,92.5,2048,151.76,0.02
+ Solomon Islands              ,2023,37.5,2023,37.5,0.02
+ Solomon Islands              ,2023,37.5,2028,41.4,0.02
+ Solomon Islands              ,2023,37.5,2033,45.71,0.02
+ Solomon Islands              ,2023,37.5,2038,50.47,0.02
+ Solomon Islands              ,2023,37.5,2043,55.72,0.02
+ Solomon Islands              ,2023,37.5,2048,61.52,0.02
+ Tonga                        ,2023,17.5,2023,17.5,0.02
+ Tonga                        ,2023,17.5,2028,19.32,0.02
+ Tonga                        ,2023,17.5,2033,21.33,0.02
+ Tonga                        ,2023,17.5,2038,23.55,0.02
+ Tonga                        ,2023,17.5,2043,26.0,0.02
+ Tonga                        ,2023,17.5,2048,28.71,0.02
+ Total (9 PICTs)              ,2023,270.0,2023,270.0,0.02
+ Total (9 PICTs)              ,2023,270.0,2028,298.1,0.02
+ Total (9 PICTs)              ,2023,270.0,2033,329.13,0.02
+ Total (9 PICTs)              ,2023,270.0,2038,363.38,0.02
+ Total (9 PICTs)              ,2023,270.0,2043,401.21,0.02
+ Total (9 PICTs)              ,2023,270.0,2048,442.96,0.02
+ Tuvalu                       ,2023,4.5,2023,4.5,0.02
+ Tuvalu                       ,2023,4.5,2028,4.97,0.02
+ Tuvalu                       ,2023,4.5,2033,5.49,0.02
+ Tuvalu                       ,2023,4.5,2038,6.06,0.02
+ Tuvalu                       ,2023,4.5,2043,6.69,0.02
+ Tuvalu                       ,2023,4.5,2048,7.38,0.02
+ Vanuatu                      ,2023,27.5,2023,27.5,0.02
+ Vanuatu                      ,2023,27.5,2028,30.36,0.02
+ Vanuatu                      ,2023,27.5,2033,33.52,0.02
+ Vanuatu                      ,2023,27.5,2038,37.01,0.02
+ Vanuatu                      ,2023,27.5,2043,40.86,0.02
+ Vanuatu                      ,2023,27.5,2048,45.12,0.02

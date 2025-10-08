@@ -1,0 +1,11 @@
+YEAR,source,country,Total Fuel Consumption (in mio l),Estimated Fuel (in l),share MDO, Estimated Fuel Use (10³ tonnes MDO eq.) ,median, Approx. Energy Demand (PJ) ¹ , Relative Share of PICT Total (%) , Key Notes / Sources                                                                          
+2023.0,paper, Fiji                         ,,,, 75–80                                    ,,3.2,28%, Cross-validated with Prasad & Raturi (2019) → 79 ML ≈ 2.9 PJ; adjusted to 2023 (+10 %).      
+2023.0,paper, Papua New Guinea             ,1400.0,,, 90–95                                    ,92.5,3.8,33%, Largest fleet; high cargo and passenger traffic between main islands and Lae / Port Moresby. 
+2023.0,paper, Solomon Islands              ,,,, 35–40                                    ,37.5,1.5,13%, Many small inter-island cargo vessels (<500 DWT).                                            
+2023.0,paper, Vanuatu                      ,,,, 25–30                                    ,27.5,1.2,9%, Tourism and fishing-linked domestic shipping.                                                
+2023.0,paper, Tonga                        ,,,, 15–20                                    ,17.5,0.8,6%, Mostly passenger and Ro-Ro links to outer islands.                                           
+2023.0,paper, Cook Islands                 ,,,, 8–10                                     ,9.0,0.4,3%, Limited domestic routes; import-focused.                                                     
+2023.0,paper, French Polynesia             ,,,, 12–15                                    ,13.5,0.6,5%, Larger EEZ but relatively few domestic vessels.                                              
+2023.0,paper, Tuvalu                       ,,,, 4–5                                      ,4.5,0.2,2%, Small fleet; occasional inter-island service.                                                
+2023.0,paper, Federated States of Micronesia*,,,, 4–5                                      ,4.5,0.2,2%, Few domestic cargo/passenger ships.                                                          
+2023.0,paper, Total (9 PICTs)              ,,,, 270 ± 20 (10³ t MDO eq.)                 ,270.0,12.0,100%, ≈ 330 kt CO₂ emitted annually from domestic shipping. ²                                      
