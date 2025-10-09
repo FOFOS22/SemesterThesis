@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # --- load data ---
 HERE = Path(__file__).resolve().parent if "__file__" in globals() else Path.cwd()
-csv_path = HERE / "projections_all.csv"   # adjust if your filename differs
+csv_path = HERE / "projections" / "projections_all.csv"   # adjust if your filename differs
 df = pd.read_csv(csv_path)
 
 # pick the value column (support either name)
