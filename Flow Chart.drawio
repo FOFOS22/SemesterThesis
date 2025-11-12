@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" version="28.2.9">
+  <diagram name="Page-1" id="0lBy0-kw3SkSNxrOUNUD">
+    <mxGraphModel dx="679" dy="396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="20" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xcwcpV1--gEmk2YdoePs-3" value="Fiji domestic Fleet (2019)&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Prasad et al.&lt;/font&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="860" y="550" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-5" value="Vessel specific data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xcwcpV1--gEmk2YdoePs-3">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-4" value="AIS based" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xcwcpV1--gEmk2YdoePs-3">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-8" value="PICs Fuel (2023)&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Santagata et al.&lt;/font&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="550" width="190" height="90" as="geometry">
+            <mxRectangle x="1090" y="550" width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-9" value="Country specific data" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xcwcpV1--gEmk2YdoePs-8">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-10" value="AIS based" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xcwcpV1--gEmk2YdoePs-8">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcwcpV1--gEmk2YdoePs-11" target="xcwcpV1--gEmk2YdoePs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-11" value="Energy Intensities [MJ/tkm]" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="730" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-12" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcwcpV1--gEmk2YdoePs-4" target="xcwcpV1--gEmk2YdoePs-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcwcpV1--gEmk2YdoePs-15" target="xcwcpV1--gEmk2YdoePs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-15" value="Transport Demand 2023" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="730" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-16" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.499;exitY=1.022;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="xcwcpV1--gEmk2YdoePs-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1184.76" y="650" as="sourcePoint" />
+            <mxPoint x="1185" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xcwcpV1--gEmk2YdoePs-18" target="xcwcpV1--gEmk2YdoePs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcwcpV1--gEmk2YdoePs-18" target="xcwcpV1--gEmk2YdoePs-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-18" value="Global Transport Projections (2023)&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Khalili et al.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="830" width="220" height="90" as="geometry">
+            <mxRectangle x="1090" y="550" width="130" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-19" value="Country specific growth" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xcwcpV1--gEmk2YdoePs-18">
+          <mxGeometry y="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-20" value="efficiency Improvements" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="xcwcpV1--gEmk2YdoePs-18">
+          <mxGeometry y="60" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-23" value="Transport Demand Projections&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;int. vs domestic&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="730" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xcwcpV1--gEmk2YdoePs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xcwcpV1--gEmk2YdoePs-11" target="xcwcpV1--gEmk2YdoePs-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
