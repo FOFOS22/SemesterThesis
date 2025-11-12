@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.3 Safari/605.1.15" version="28.2.9">
   <diagram name="Page-1" id="0lBy0-kw3SkSNxrOUNUD">
-    <mxGraphModel dx="1426" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="20" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1188" dy="693" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="20" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,7 +59,7 @@
         <mxCell id="xcwcpV1--gEmk2YdoePs-19" value="Country specific growth" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xcwcpV1--gEmk2YdoePs-18" vertex="1">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xcwcpV1--gEmk2YdoePs-20" value="Energy Efficiency inkl. Improvements" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xcwcpV1--gEmk2YdoePs-18" vertex="1">
+        <mxCell id="xcwcpV1--gEmk2YdoePs-20" value="Energy Efficiency incl. Improvements" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="xcwcpV1--gEmk2YdoePs-18" vertex="1">
           <mxGeometry y="60" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xcwcpV1--gEmk2YdoePs-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xcwcpV1--gEmk2YdoePs-23" target="xcwcpV1--gEmk2YdoePs-27" edge="1">
@@ -82,10 +82,10 @@
             <mxPoint x="1700" y="630" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jpAJCeE4zPGxZhbBLDZc-10" value="Decarbonization Scenarios" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1605" y="550" width="190" height="120" as="geometry" />
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-10" value="Decarbonization Scenarios" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1608" y="550" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="jpAJCeE4zPGxZhbBLDZc-11" value="Retrofitting" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jpAJCeE4zPGxZhbBLDZc-10">
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-11" value="Retrofitting" style="text;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jpAJCeE4zPGxZhbBLDZc-10">
           <mxGeometry y="30" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jpAJCeE4zPGxZhbBLDZc-12" value="Electrification" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jpAJCeE4zPGxZhbBLDZc-10">
@@ -93,6 +93,30 @@
         </mxCell>
         <mxCell id="jpAJCeE4zPGxZhbBLDZc-14" value="Alternative Fuels" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="jpAJCeE4zPGxZhbBLDZc-10">
           <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="560" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="570" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-17" value="Data Sets" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1436" y="565" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1373" y="645" as="sourcePoint" />
+            <mxPoint x="1402" y="645" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-21" value="Process flows" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1431" y="626" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="603" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jpAJCeE4zPGxZhbBLDZc-24" value="Results" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1429" y="598" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
